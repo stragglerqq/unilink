@@ -1,0 +1,17 @@
+.communicator {
+  display: flex;
+  margin: 20px 10px;
+
+  &__board {
+    display: flex;
+    flex-flow: column;
+  }
+
+  &__message {
+    margin-top: 5px;
+  }
+}
+
+mat-form-field {
+  width: 100%;
+}

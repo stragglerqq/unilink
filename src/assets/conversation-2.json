@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:00:00",
+      "value": "Hello, how are you?"
+    },
+    {
+      "authorId": 3,
+      "timestamp": "2023-05-24T10:05:00",
+      "value": "Hey there! I'm doing great. Thanks!"
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:10:00",
+      "value": "That's good to hear! What have you been up to lately?"
+    },
+    {
+      "authorId": 3,
+      "timestamp": "2023-05-24T10:15:00",
+      "value": "I've been working on a new project. It's been quite exciting!"
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:20:00",
+      "value": "That sounds interesting. Any particular challenges you've faced?"
+    },
+    {
+      "authorId": 3,
+      "timestamp": "2023-05-24T10:25:00",
+      "value": "Yes, definitely. The deadline is tight, but I'm managing well."
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:30:00",
+      "value": "Great job! If you need any assistance, feel free to reach out."
+    },
+    {
+      "authorId": 3,
+      "timestamp": "2023-05-24T10:35:00",
+      "value": "Thanks, I appreciate your support. I'll keep that in mind!"
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:40:00",
+      "value": "You're welcome! Good luck with your project. Have a fantastic day!"
+    },
+    {
+      "authorId": 3,
+      "timestamp": "2023-05-24T10:45:00",
+      "value": "Thank you! Wishing you a wonderful day too. Take care!"
+    }
+  ]
+}

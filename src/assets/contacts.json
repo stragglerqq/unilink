@@ -1,0 +1,110 @@
+[
+  {
+    "id": 2,
+    "name": "Jane",
+    "surname": "Smith",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Michael",
+    "surname": "Johnson",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 4,
+    "name": "Emily",
+    "surname": "Anderson",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "surname": "Brown",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 6,
+    "name": "Sophia",
+    "surname": "Taylor",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 7,
+    "name": "Matthew",
+    "surname": "Wilson",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 8,
+    "name": "Olivia",
+    "surname": "Thomas",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 9,
+    "name": "Daniel",
+    "surname": "Martinez",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 10,
+    "name": "Ava",
+    "surname": "Garcia",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 11,
+    "name": "Andrew",
+    "surname": "Clark",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 12,
+    "name": "Emma",
+    "surname": "White",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 13,
+    "name": "John",
+    "surname": "Doe",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 14,
+    "name": "Jane",
+    "surname": "Smith",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 15,
+    "name": "Michael",
+    "surname": "Johnson",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 16,
+    "name": "Emily",
+    "surname": "Anderson",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 17,
+    "name": "David",
+    "surname": "Brown",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  },
+  {
+    "id": 18,
+    "name": "Sophia",
+    "surname": "Taylor",
+    "avatarUrl": "./assets/profile-pic-2.webp"
+  },
+  {
+    "id": 19,
+    "name": "Matthew",
+    "surname": "Wilson",
+    "avatarUrl": "./assets/profile-pic-1.webp"
+  }
+]

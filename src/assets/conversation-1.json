@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:00:00",
+      "value": "Hello, how are you?"
+    },
+    {
+      "authorId": 2,
+      "timestamp": "2023-05-24T10:05:00",
+      "value": "I'm good, thanks! How about you?"
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:10:00",
+      "value": "I'm doing well too. What have you been up to?"
+    },
+    {
+      "authorId": 2,
+      "timestamp": "2023-05-24T10:15:00",
+      "value": "Just working on a project. It's been quite busy lately."
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:20:00",
+      "value": "I can imagine. Projects can be demanding. Hang in there!"
+    },
+    {
+      "authorId": 2,
+      "timestamp": "2023-05-24T10:25:00",
+      "value": "Thanks! I appreciate the support."
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:30:00",
+      "value": "No problem. If you need any help, feel free to ask."
+    },
+    {
+      "authorId": 2,
+      "timestamp": "2023-05-24T10:35:00",
+      "value": "That's very kind of you. I'll keep that in mind. Thanks!"
+    },
+    {
+      "authorId": 1,
+      "timestamp": "2023-05-24T10:40:00",
+      "value": "You're welcome! Have a great day!"
+    },
+    {
+      "authorId": 2,
+      "timestamp": "2023-05-24T10:45:00",
+      "value": "You too! Take care!"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<div class="conversation">
+  <cdk-virtual-scroll-viewport
+    *ngIf="conversation?.messages.length" appendOnly class="conversation__board board"
+    itemSize="20"
+  >
+    <div
+      *cdkVirtualFor="let message of conversation.messages"
+      [class.message--owned]="message.authorId === userId"
+      class="board__message message"
+    >
+      <div class="message__value">
+        {{message.value}}
+      </div>
+    </div>
+  </cdk-virtual-scroll-viewport>
+  <div *ngIf="conversation?.messages?.length === 0" class="conversation__warning">
+    Start conversation now!
+  </div>
+  <div *ngIf="!conversation" class="conversation__warning">
+    Select contact
+  </div>
+</div>

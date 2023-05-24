@@ -1,0 +1,16 @@
+<div class="contacts">
+  <div
+    (click)="contactClick(contact)"
+    *ngFor="let contact of contacts"
+    [class.contact--active]="contact === activeContact"
+    class="contacts__contact contact"
+  >
+    <img
+      class="contact__profile-image"
+      src="{{contact.avatarUrl}}"
+    >
+    <div>
+      {{contact.name}} {{contact.surname}}
+    </div>
+  </div>
+</div>

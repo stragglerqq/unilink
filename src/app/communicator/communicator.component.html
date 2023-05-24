@@ -1,0 +1,21 @@
+<div class="communicator">
+  <app-contacts
+    (onContactSelection)="onContactSelection($event)"
+    [contacts]="contact$ | async"
+  ></app-contacts>
+  <div class="communicator__board">
+    <app-conversation-board
+      [conversation]="conversation$ | async">
+    </app-conversation-board>
+    <form [formGroup]="form" class="communicator__message">
+      <mat-form-field appearance="outline">
+        <mat-label>Message</mat-label>
+        <input
+          (keydown.enter)="onKeydown()"
+          class="full-width" formControlName="message"
+          matInput
+          placeholder="Enter your message">
+      </mat-form-field>
+    </form>
+  </div>
+</div>
